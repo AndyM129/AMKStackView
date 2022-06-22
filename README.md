@@ -9,6 +9,8 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+<img src="README.assets/IMG_E6689C5CFB0B-1.jpeg" alt="IMG_E6689C5CFB0B-1" style="zoom:33%;" />
+
 ## Requirements
 
 ## Installation
