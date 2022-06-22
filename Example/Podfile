@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'AMKStackView_Example' do
+  pod 'AMKStackView', :path => '../'
+
+  target 'AMKStackView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
